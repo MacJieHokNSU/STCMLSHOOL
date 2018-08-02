@@ -1,0 +1,29 @@
+## Python
+__pycache__/
+*.py[cod]
+
+### Virtual Environments
+.env/
+.venv/
+env/
+venv/
+
+### PyTest
+.pytest_cache/
+.cache/
+
+### PyTest Coverage
+.coverage
+
+### PyTest HTML
+htmlcov/
+
+### macOS
+.DS_Store
+
+### Ubuntu
+
+## IDE
+
+### PyCharm
+.idea/
